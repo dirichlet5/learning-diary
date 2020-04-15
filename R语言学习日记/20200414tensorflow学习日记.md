@@ -46,5 +46,5 @@ cnmd傻逼tensorflow终于可以在R里运行了
 
 舒服了，优秀如我，恐怖如斯恐怖如斯，毕业在望成名在即
 
-![](F:\github-md\R语言学习日记\lstm_test.png)
+![image](https://github.com/dirichlet5/learning-diary/blob/master/R%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AE%B0/lstm_test.png)
 
